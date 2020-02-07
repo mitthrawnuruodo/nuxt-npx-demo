@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1>Hello world</h1>
-    <p>From Lasse H-</p>
+    <p>From Lasse Hægland</p>
   </div>
 </template>
 
